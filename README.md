@@ -55,14 +55,6 @@ VisionAssist is a Flask-based desktop vision assistant that streams camera frame
 - A `.gitignore` file is included to exclude environment files, logs, and local build artifacts.
 - If you need to change the camera, model, or server settings, use environment variables or edit `config.py`.
 
-## GitHub push example
 
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git branch -M main
-git push -u origin main
-```
-# Vision-Assist
+
+
