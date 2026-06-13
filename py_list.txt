@@ -1,0 +1,5 @@
+ -V:3.15 *        Python 3.15 (64-bit)
+ -V:3.14          Python 3.14.0
+Python 3.15.0a6
+'python3.11' is not recognized as an internal or external command,
+operable program or batch file.
